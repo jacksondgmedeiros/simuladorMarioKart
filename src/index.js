@@ -1,0 +1,1 @@
+console.log("Iniciando o jogo do Mario kart!!!");
